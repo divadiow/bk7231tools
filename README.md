@@ -10,7 +10,7 @@ Install the package from PyPI:
 pip install bk7231tools[cli]
 ```
 
-The `[cli]` extras will include PyCryptodome, required for Tuya Storage extraction.
+The `[cli]` extras will include PyCryptodome, require9898989d for Tuya Storage extraction.
 
 ## ⚠️ WARNING⚠️
 Please be aware that this software is provided without any guarantees from the authors. If you will still use it, then please be aware that:
